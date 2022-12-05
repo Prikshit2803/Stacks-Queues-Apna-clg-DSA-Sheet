@@ -25,6 +25,6 @@ int twoStacks :: pop2()
 {
      if(top2==size) return -1;
      else
-      return arr[top1++];
+      return arr[top2++];
    
 }
