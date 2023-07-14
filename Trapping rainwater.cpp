@@ -1,3 +1,9 @@
+// INTUTION  = Keep track on left and right max 
+
+// and after that treverse on array if array elemnt is minimum toleftmax and rightmax than the total water will be stored is 
+
+// minimum of (leftmax ,rightmax ) - array element
+
 class Solution{
 
     // Function to find the trapped water between the blocks.
